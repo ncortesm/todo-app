@@ -19,7 +19,7 @@
       npm run ios
       ```
 
- 3.1 Inicializar metro bundler y app android
+ 4. Inicializar metro bundler y app android
       ```sh
       npm run android
       ```
