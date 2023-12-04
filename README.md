@@ -10,19 +10,19 @@
    ```
 
  2. Instalar packages
-   ```sh
-   npm install
-   ```
+      ```sh
+      npm install
+      ```
 
  3. Inicializar metro bundler y app ios
-   ```sh
-   npm run ios
-   ```
+      ```sh
+      npm run ios
+      ```
 
  3.1 Inicializar metro bundler y app android
-   ```sh
-   npm run android
-   ```
+      ```sh
+      npm run android
+      ```
    
 ## Descripción
 Pedro, un desarrollador de software, ha estado anotando sus tareas en un cuaderno durante los últimos tres años. Aunque este método ha funcionado para él, ha comenzado a notar que su cuaderno se está llenando rápidamente y que buscar tareas antiguas se está volviendo cada vez más difícil. Además, no puede llevar su cuaderno a todas partes, lo que significa que a veces olvida anotar tareas importantes.
